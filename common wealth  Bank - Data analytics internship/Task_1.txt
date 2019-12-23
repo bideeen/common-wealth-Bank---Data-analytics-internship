@@ -1,0 +1,15 @@
+Here is your task
+
+Download the template presentation in the ‘additional resources’ section below. To help you with your presentation to Lana you should make sure you answer each of the questions below.
+
+What are demographics? In your own words, provide in a simple explanation.
+What demographic characteristics are provided in the dataset?
+Which demographic group buys the most cookies?
+What is the most popular type of cookie?
+Provide a recommendation to Lana in your presentation:
+
+What types of cookie should Lana sell and why?
+Which demographics should she target?
+Lastly, how can you improve the data analytics techniques in this study to make your recommendation to Lana better?
+
+Upload your presentation to the 'submit your work' section when you are done.
